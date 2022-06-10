@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+Pillow
+prettytable==2.4.0
+opencv-python
+tensorboardX==2.1
